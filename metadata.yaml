@@ -2,5 +2,10 @@
 homepage: https://dumbdata.co/
 documentation: https://github.com/Jude-Nwachukwu/gtm-cookieyes-consent-state-variable
 versions:
+# LATEST VERSION
+  - sha: 6ac4e929cc9ff1ea16a4f4f8860b52ec018eb418
+    changeNotes: Updated the variable custom template name.
+
+#INITIAL VERSION
   - sha: 8aa4dda4f51c7e43221840b3f8f5ab38f736dcd9
     changeNotes: Initial release.
